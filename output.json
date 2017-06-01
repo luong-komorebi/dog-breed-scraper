@@ -1,0 +1,3082 @@
+{
+    "table": [
+        {
+            "id": 1,
+            "breed": "Affenpinscher",
+            "origin": "Germany, France",
+            "akcGroup": "Toy Group"
+        },
+        {
+            "id": 2,
+            "breed": "Afghan Hound",
+            "origin": "Afghanistan",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 3,
+            "breed": "Afghan Shepherd",
+            "origin": "Afghanistan",
+            "akcGroup": ""
+        },
+        {
+            "id": 4,
+            "breed": "Aidi",
+            "origin": "Morocco",
+            "akcGroup": ""
+        },
+        {
+            "id": 5,
+            "breed": "Airedale Terrier",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 6,
+            "breed": "Akbash",
+            "origin": "Turkey",
+            "akcGroup": ""
+        },
+        {
+            "id": 7,
+            "breed": "Akita Inu",
+            "origin": "Japan",
+            "akcGroup": "See American Akita"
+        },
+        {
+            "id": 8,
+            "breed": "Alano Español",
+            "origin": "Spain",
+            "akcGroup": ""
+        },
+        {
+            "id": 9,
+            "breed": "Alaskan Husky",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 10,
+            "breed": "Alaskan Klee Kai",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 11,
+            "breed": "Alaskan Malamute",
+            "origin": "United States",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 12,
+            "breed": "Alpine Dachsbracke",
+            "origin": "Austria",
+            "akcGroup": ""
+        },
+        {
+            "id": 13,
+            "breed": "Alpine Spaniel",
+            "origin": "Switzerland, Savoy",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 14,
+            "breed": "American Akita",
+            "origin": "Japan, United States",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 15,
+            "breed": "American Bulldog",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 16,
+            "breed": "American Cocker Spaniel",
+            "origin": "United States",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 17,
+            "breed": "American Eskimo Dog",
+            "origin": "Germany",
+            "akcGroup": "Non-Sporting Group"
+        },
+        {
+            "id": 18,
+            "breed": "American Foxhound",
+            "origin": "United States",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 19,
+            "breed": "American Hairless Terrier",
+            "origin": "United States",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 20,
+            "breed": "American Pit Bull Terrier",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 21,
+            "breed": "American Staffordshire Terrier",
+            "origin": "United States",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 22,
+            "breed": "American Water Spaniel",
+            "origin": "United States",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 23,
+            "breed": "Anatolian Shepherd Dog",
+            "origin": "Turkey",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 24,
+            "breed": "Andalusian Hound",
+            "origin": "Spain",
+            "akcGroup": ""
+        },
+        {
+            "id": 25,
+            "breed": "Anglo-Français de Petite Vénerie",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 26,
+            "breed": "Appenzeller Sennenhund",
+            "origin": "Switzerland",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 27,
+            "breed": "Ariege Pointer",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 28,
+            "breed": "Ariegeois",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 29,
+            "breed": "Armant",
+            "origin": "Egypt",
+            "akcGroup": ""
+        },
+        {
+            "id": 30,
+            "breed": "Armenian Gampr dog",
+            "origin": "Armenia",
+            "akcGroup": ""
+        },
+        {
+            "id": 31,
+            "breed": "Artois Hound",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 32,
+            "breed": "Australian Cattle Dog",
+            "origin": "Australia",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 33,
+            "breed": "Australian Kelpie",
+            "origin": "Australia",
+            "akcGroup": ""
+        },
+        {
+            "id": 34,
+            "breed": "Australian Shepherd",
+            "origin": "United States",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 35,
+            "breed": "Australian Silky Terrier",
+            "origin": "Australia",
+            "akcGroup": "Toy Group"
+        },
+        {
+            "id": 36,
+            "breed": "Australian Stumpy Tail Cattle Dog",
+            "origin": "Australia",
+            "akcGroup": ""
+        },
+        {
+            "id": 37,
+            "breed": "Australian Terrier",
+            "origin": "Australia",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 38,
+            "breed": "Austrian Black and Tan Hound",
+            "origin": "Austria",
+            "akcGroup": ""
+        },
+        {
+            "id": 39,
+            "breed": "Austrian Pinscher",
+            "origin": "Austria",
+            "akcGroup": ""
+        },
+        {
+            "id": 40,
+            "breed": "Azawakh",
+            "origin": "Mali",
+            "akcGroup": "FSS (Miscellaneous)"
+        },
+        {
+            "id": 41,
+            "breed": "Bakharwal Dog",
+            "origin": "India",
+            "akcGroup": ""
+        },
+        {
+            "id": 42,
+            "breed": "Barbet",
+            "origin": "France",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 43,
+            "breed": "Basenji",
+            "origin": "Democratic Republic of the Congo",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 44,
+            "breed": "Basque Ratter",
+            "origin": "Spain",
+            "akcGroup": ""
+        },
+        {
+            "id": 45,
+            "breed": "Basque Shepherd Dog",
+            "origin": "Spain",
+            "akcGroup": ""
+        },
+        {
+            "id": 46,
+            "breed": "Basset Artésien Normand",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 47,
+            "breed": "Basset Bleu de Gascogne",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 48,
+            "breed": "Basset Fauve de Bretagne",
+            "origin": "France",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 49,
+            "breed": "Basset Griffon Vendéen, Grand",
+            "origin": "France",
+            "akcGroup": "FSS (Miscellaneous)"
+        },
+        {
+            "id": 50,
+            "breed": "Basset Griffon Vendéen, Petit",
+            "origin": "France",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 51,
+            "breed": "Basset Hound",
+            "origin": "France",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 52,
+            "breed": "Bavarian Mountain Hound",
+            "origin": "Germany",
+            "akcGroup": ""
+        },
+        {
+            "id": 53,
+            "breed": "Beagle",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 54,
+            "breed": "Beagle-Harrier",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 55,
+            "breed": "Bearded Collie",
+            "origin": "United Kingdom, Scotland",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 56,
+            "breed": "Beauceron",
+            "origin": "France",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 57,
+            "breed": "Bedlington Terrier",
+            "origin": "United Kingdom",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 58,
+            "breed": "Belgian Shepherd Dog (Groenendael)",
+            "origin": "Belgium",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 59,
+            "breed": "Belgian Shepherd Dog (Laekenois)",
+            "origin": "Belgium",
+            "akcGroup": "FSS (Miscellaneous)"
+        },
+        {
+            "id": 60,
+            "breed": "Belgian Shepherd Dog (Malinois)",
+            "origin": "Belgium",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 61,
+            "breed": "Belgian Shepherd Dog (Tervuren)",
+            "origin": "Belgium",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 62,
+            "breed": "Bergamasco Shepherd",
+            "origin": "Italy",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 63,
+            "breed": "Berger Blanc Suisse",
+            "origin": "Switzerland",
+            "akcGroup": ""
+        },
+        {
+            "id": 64,
+            "breed": "Berger Picard",
+            "origin": "France",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 65,
+            "breed": "Berner Laufhund",
+            "origin": "Switzerland",
+            "akcGroup": ""
+        },
+        {
+            "id": 66,
+            "breed": "Bernese Mountain Dog",
+            "origin": "Switzerland",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 67,
+            "breed": "Bichon Frisé",
+            "origin": "Spain, Belgium",
+            "akcGroup": "Non-Sporting Group"
+        },
+        {
+            "id": 68,
+            "breed": "Billy",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 69,
+            "breed": "Black and Tan Coonhound",
+            "origin": "United States",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 70,
+            "breed": "Black and Tan Virginia Foxhound",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 71,
+            "breed": "Black Norwegian Elkhound",
+            "origin": "Norway",
+            "akcGroup": ""
+        },
+        {
+            "id": 72,
+            "breed": "Black Russian Terrier",
+            "origin": "Russia",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 73,
+            "breed": "Blackmouth Cur",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 74,
+            "breed": "Bleu de Gascogne, Grand",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 75,
+            "breed": "Bleu de Gascogne, Petit",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 76,
+            "breed": "Bloodhound",
+            "origin": "Belgium, France",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 77,
+            "breed": "Blue Heeler",
+            "origin": "Australia",
+            "akcGroup": ""
+        },
+        {
+            "id": 78,
+            "breed": "Blue Lacy",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 79,
+            "breed": "Blue Paul Terrier",
+            "origin": "United Kingdom, Scotland",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 80,
+            "breed": "Bluetick Coonhound",
+            "origin": "United States",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 81,
+            "breed": "Boerboel",
+            "origin": "South Africa",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 82,
+            "breed": "Bohemian Shepherd",
+            "origin": "Czech Republic",
+            "akcGroup": ""
+        },
+        {
+            "id": 83,
+            "breed": "Bolognese",
+            "origin": "Italy",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 84,
+            "breed": "Border Collie",
+            "origin": "United Kingdom, Scotland, England, Wales",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 85,
+            "breed": "Border Terrier",
+            "origin": "United Kingdom, Scotland, England",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 86,
+            "breed": "Borzoi",
+            "origin": "Russia",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 87,
+            "breed": "Bosnian Coarse-haired Hound",
+            "origin": "Bosnia and Herzegovina",
+            "akcGroup": ""
+        },
+        {
+            "id": 88,
+            "breed": "Boston Terrier",
+            "origin": "United States",
+            "akcGroup": "Non-Sporting Group"
+        },
+        {
+            "id": 89,
+            "breed": "Bouvier des Ardennes",
+            "origin": "Belgium",
+            "akcGroup": ""
+        },
+        {
+            "id": 90,
+            "breed": "Bouvier des Flandres",
+            "origin": "Belgium",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 91,
+            "breed": "Boxer",
+            "origin": "Germany",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 92,
+            "breed": "Boykin Spaniel",
+            "origin": "United States",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 93,
+            "breed": "Bracco Italiano",
+            "origin": "Italy",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 94,
+            "breed": "Braque d'Auvergne",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 95,
+            "breed": "Braque du Bourbonnais",
+            "origin": "France",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 96,
+            "breed": "Braque du Puy",
+            "origin": "France",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 97,
+            "breed": "Braque Francais",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 98,
+            "breed": "Braque Saint-Germain",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 99,
+            "breed": "Brazilian Dogo",
+            "origin": "Brazil",
+            "akcGroup": ""
+        },
+        {
+            "id": 100,
+            "breed": "Brazilian Terrier",
+            "origin": "Brazil",
+            "akcGroup": ""
+        },
+        {
+            "id": 101,
+            "breed": "Briard",
+            "origin": "France",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 102,
+            "breed": "Briquet Griffon Vendéen",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 103,
+            "breed": "Brittany",
+            "origin": "France",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 104,
+            "breed": "Broholmer",
+            "origin": "Denmark",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 105,
+            "breed": "Bruno Jura Hound",
+            "origin": "Switzerland, France",
+            "akcGroup": ""
+        },
+        {
+            "id": 106,
+            "breed": "Bucovina Shepherd Dog",
+            "origin": "Romania",
+            "akcGroup": ""
+        },
+        {
+            "id": 107,
+            "breed": "Bull and Terrier",
+            "origin": "United Kingdom",
+            "akcGroup": ""
+        },
+        {
+            "id": 108,
+            "breed": "Bull Terrier",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 109,
+            "breed": "Bull Terrier (Miniature)",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 110,
+            "breed": "Bulldog",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Non-sporting Group"
+        },
+        {
+            "id": 111,
+            "breed": "Bullenbeisser",
+            "origin": "Germany",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 112,
+            "breed": "Bullmastiff",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 113,
+            "breed": "Bully Kutta",
+            "origin": "Pakistan, India",
+            "akcGroup": ""
+        },
+        {
+            "id": 114,
+            "breed": "Burgos Pointer",
+            "origin": "Spain",
+            "akcGroup": ""
+        },
+        {
+            "id": 115,
+            "breed": "Cairn Terrier",
+            "origin": "United Kingdom, Scotland",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 116,
+            "breed": "Canaan Dog",
+            "origin": "Middle East, Lebanon, Israel",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 117,
+            "breed": "Canadian Eskimo Dog",
+            "origin": "Canada",
+            "akcGroup": ""
+        },
+        {
+            "id": 118,
+            "breed": "Cane Corso",
+            "origin": "Italy",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 119,
+            "breed": "Cantabrian Water Dog",
+            "origin": "Spain",
+            "akcGroup": ""
+        },
+        {
+            "id": 120,
+            "breed": "Cão da Serra de Aires",
+            "origin": "Portugal",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 121,
+            "breed": "Cão de Castro Laboreiro",
+            "origin": "Portugal",
+            "akcGroup": ""
+        },
+        {
+            "id": 122,
+            "breed": "Cão de Gado Transmontano",
+            "origin": "Portugal",
+            "akcGroup": ""
+        },
+        {
+            "id": 123,
+            "breed": "Cão Fila de São Miguel",
+            "origin": "Portugal",
+            "akcGroup": ""
+        },
+        {
+            "id": 124,
+            "breed": "Carolina Dog",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 125,
+            "breed": "Carpathian Shepherd Dog",
+            "origin": "Romania",
+            "akcGroup": ""
+        },
+        {
+            "id": 126,
+            "breed": "Catahoula Cur",
+            "origin": "United States",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 127,
+            "breed": "Catalan Sheepdog",
+            "origin": "Spain",
+            "akcGroup": ""
+        },
+        {
+            "id": 128,
+            "breed": "Caucasian Shepherd Dog",
+            "origin": "Georgia (country), Armenia, Azerbaijan",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 129,
+            "breed": "Cavalier King Charles Spaniel",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Toy Group"
+        },
+        {
+            "id": 130,
+            "breed": "Central Asian Shepherd Dog",
+            "origin": "Russia",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 131,
+            "breed": "Cesky Fousek",
+            "origin": "Czech Republic",
+            "akcGroup": ""
+        },
+        {
+            "id": 132,
+            "breed": "Cesky Terrier",
+            "origin": "Czech Republic",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 133,
+            "breed": "Chesapeake Bay Retriever",
+            "origin": "United States",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 134,
+            "breed": "Chien Français Blanc et Noir",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 135,
+            "breed": "Chien Français Blanc et Orange",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 136,
+            "breed": "Chien Français Tricolore",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 137,
+            "breed": "Chien-gris",
+            "origin": "France",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 138,
+            "breed": "Chihuahua",
+            "origin": "Mexico",
+            "akcGroup": "Toy Group"
+        },
+        {
+            "id": 139,
+            "breed": "Chilean Fox Terrier",
+            "origin": "Chile",
+            "akcGroup": ""
+        },
+        {
+            "id": 140,
+            "breed": "Chinese Chongqing Dog",
+            "origin": "China",
+            "akcGroup": ""
+        },
+        {
+            "id": 141,
+            "breed": "Chinese Crested Dog",
+            "origin": "China",
+            "akcGroup": "Toy Group"
+        },
+        {
+            "id": 142,
+            "breed": "Chinese Imperial Dog",
+            "origin": "China",
+            "akcGroup": ""
+        },
+        {
+            "id": 143,
+            "breed": "Chinook",
+            "origin": "United States",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 144,
+            "breed": "Chippiparai",
+            "origin": "India",
+            "akcGroup": ""
+        },
+        {
+            "id": 145,
+            "breed": "Chow Chow",
+            "origin": "China",
+            "akcGroup": "Non-Sporting Group"
+        },
+        {
+            "id": 146,
+            "breed": "Cierny Sery",
+            "origin": "Slovakia",
+            "akcGroup": ""
+        },
+        {
+            "id": 147,
+            "breed": "Cirneco dell'Etna",
+            "origin": "Italy",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 148,
+            "breed": "Clumber Spaniel",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 149,
+            "breed": "Collie, Rough",
+            "origin": "United Kingdom, Scotland",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 150,
+            "breed": "Collie, Smooth",
+            "origin": "United Kingdom, Scotland",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 151,
+            "breed": "Combai",
+            "origin": "India",
+            "akcGroup": ""
+        },
+        {
+            "id": 152,
+            "breed": "Cordoba Fighting Dog",
+            "origin": "Argentina",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 153,
+            "breed": "Coton de Tulear",
+            "origin": "Madagascar",
+            "akcGroup": "Non-Sporting Group"
+        },
+        {
+            "id": 154,
+            "breed": "Cretan Hound",
+            "origin": "Greece",
+            "akcGroup": ""
+        },
+        {
+            "id": 155,
+            "breed": "Croatian Sheepdog",
+            "origin": "Croatia",
+            "akcGroup": ""
+        },
+        {
+            "id": 156,
+            "breed": "Cumberland Sheepdog",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 157,
+            "breed": "Curly Coated Retriever",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 158,
+            "breed": "Cursinu",
+            "origin": "Corsica, France",
+            "akcGroup": ""
+        },
+        {
+            "id": 159,
+            "breed": "Czechoslovak Wolfdog",
+            "origin": "Czechoslovakia",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 160,
+            "breed": "Dachshund",
+            "origin": "Germany",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 161,
+            "breed": "Dalmatian",
+            "origin": "Croatia",
+            "akcGroup": "Non-Sporting Group"
+        },
+        {
+            "id": 162,
+            "breed": "Dandie Dinmont Terrier",
+            "origin": "United Kingdom, Scotland",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 163,
+            "breed": "Danish Swedish Farmdog",
+            "origin": "Denmark, Sweden",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 164,
+            "breed": "Decker Rat Terrier",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 165,
+            "breed": "Deutsche Bracke",
+            "origin": "Germany",
+            "akcGroup": ""
+        },
+        {
+            "id": 166,
+            "breed": "Doberman Pinscher",
+            "origin": "Germany",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 167,
+            "breed": "Dogo Argentino",
+            "origin": "Argentina",
+            "akcGroup": "FSS (Miscellaneous)"
+        },
+        {
+            "id": 168,
+            "breed": "Dogo Cubano",
+            "origin": "Cuba",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 169,
+            "breed": "Dogue de Bordeaux",
+            "origin": "France",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 170,
+            "breed": "Drentse Patrijshond",
+            "origin": "Netherlands",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 171,
+            "breed": "Drever",
+            "origin": "Sweden",
+            "akcGroup": ""
+        },
+        {
+            "id": 172,
+            "breed": "Dunker",
+            "origin": "Norway",
+            "akcGroup": ""
+        },
+        {
+            "id": 173,
+            "breed": "Dutch Shepherd Dog",
+            "origin": "Netherlands",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 174,
+            "breed": "Dutch Smoushond",
+            "origin": "Netherlands",
+            "akcGroup": ""
+        },
+        {
+            "id": 175,
+            "breed": "East Siberian Laika",
+            "origin": "Russia",
+            "akcGroup": ""
+        },
+        {
+            "id": 176,
+            "breed": "East-European Shepherd",
+            "origin": "Russia",
+            "akcGroup": ""
+        },
+        {
+            "id": 177,
+            "breed": "Elo",
+            "origin": "Germany",
+            "akcGroup": ""
+        },
+        {
+            "id": 178,
+            "breed": "English Cocker Spaniel",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 179,
+            "breed": "American English Coonhound",
+            "origin": "United States",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 180,
+            "breed": "English Foxhound",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 181,
+            "breed": "English Mastiff",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 182,
+            "breed": "English Setter",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 183,
+            "breed": "English Shepherd",
+            "origin": "United Kingdom, England",
+            "akcGroup": ""
+        },
+        {
+            "id": 184,
+            "breed": "English Springer Spaniel",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 185,
+            "breed": "English Toy Terrier (Black & Tan)",
+            "origin": "United Kingdom, England",
+            "akcGroup": ""
+        },
+        {
+            "id": 186,
+            "breed": "English Water Spaniel",
+            "origin": "United Kingdom",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 187,
+            "breed": "English White Terrier",
+            "origin": "United Kingdom",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 188,
+            "breed": "Entlebucher Mountain Dog",
+            "origin": "Switzerland",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 189,
+            "breed": "Épagneul Bleu de Picardie",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 190,
+            "breed": "Estonian Hound",
+            "origin": "Estonia",
+            "akcGroup": ""
+        },
+        {
+            "id": 191,
+            "breed": "Estrela Mountain Dog",
+            "origin": "Portugal",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 192,
+            "breed": "Eurasier",
+            "origin": "Germany",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 193,
+            "breed": "Eurohound",
+            "origin": "Scandinavia",
+            "akcGroup": ""
+        },
+        {
+            "id": 194,
+            "breed": "Field Spaniel",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 195,
+            "breed": "Fila Brasileiro",
+            "origin": "Brazil",
+            "akcGroup": ""
+        },
+        {
+            "id": 196,
+            "breed": "Finnish Hound",
+            "origin": "Finland",
+            "akcGroup": ""
+        },
+        {
+            "id": 197,
+            "breed": "Finnish Lapphund",
+            "origin": "Finland",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 198,
+            "breed": "Finnish Spitz",
+            "origin": "Finland",
+            "akcGroup": "Non-Sporting Group"
+        },
+        {
+            "id": 199,
+            "breed": "Flat-Coated Retriever",
+            "origin": "United Kingdom",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 200,
+            "breed": "Fox Terrier (Smooth)",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 201,
+            "breed": "Fox Terrier, Wire",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 202,
+            "breed": "French Brittany",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 203,
+            "breed": "French Bulldog",
+            "origin": "United Kingdom, England, France",
+            "akcGroup": "Non-Sporting Group"
+        },
+        {
+            "id": 204,
+            "breed": "French Spaniel",
+            "origin": "France",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 205,
+            "breed": "Gaddi Dog",
+            "origin": "India",
+            "akcGroup": ""
+        },
+        {
+            "id": 206,
+            "breed": "Galgo Español",
+            "origin": "Spain",
+            "akcGroup": ""
+        },
+        {
+            "id": 207,
+            "breed": "Galician Cattle Dog",
+            "origin": "Spain",
+            "akcGroup": ""
+        },
+        {
+            "id": 208,
+            "breed": "Garafian Shepherd",
+            "origin": "Spain",
+            "akcGroup": ""
+        },
+        {
+            "id": 209,
+            "breed": "Gascon Saintongeois",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 210,
+            "breed": "Georgian Shepherd Dog",
+            "origin": "Georgia (country)",
+            "akcGroup": ""
+        },
+        {
+            "id": 211,
+            "breed": "German Longhaired Pointer",
+            "origin": "Germany",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 212,
+            "breed": "German Pinscher",
+            "origin": "Germany",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 213,
+            "breed": "German Rough-haired Pointer",
+            "origin": "Germany",
+            "akcGroup": ""
+        },
+        {
+            "id": 214,
+            "breed": "German Shepherd Dog",
+            "origin": "Germany",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 215,
+            "breed": "German Shorthaired Pointer",
+            "origin": "Germany",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 216,
+            "breed": "German Spaniel",
+            "origin": "Germany",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 217,
+            "breed": "German Spitz",
+            "origin": "Germany",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 218,
+            "breed": "German Wirehaired Pointer",
+            "origin": "Germany",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 219,
+            "breed": "Giant Schnauzer",
+            "origin": "Germany",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 220,
+            "breed": "Glen of Imaal Terrier",
+            "origin": "Ireland",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 221,
+            "breed": "Golden Retriever",
+            "origin": "United Kingdom, Scotland",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 222,
+            "breed": "Gordon Setter",
+            "origin": "United Kingdom, Scotland",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 223,
+            "breed": "Gran Mastín de Borínquen",
+            "origin": "Puerto Rico",
+            "akcGroup": ""
+        },
+        {
+            "id": 224,
+            "breed": "Grand Anglo-Français Blanc et Noir",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 225,
+            "breed": "Grand Anglo-Français Blanc et Orange",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 226,
+            "breed": "Grand Anglo-Français Tricolore",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 227,
+            "breed": "Grand Griffon Vendéen",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 228,
+            "breed": "Great Dane",
+            "origin": "Germany",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 229,
+            "breed": "Great Pyrenees",
+            "origin": "France, Spain",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 230,
+            "breed": "Greater Swiss Mountain Dog",
+            "origin": "Switzerland",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 231,
+            "breed": "Greek Harehound",
+            "origin": "Greece",
+            "akcGroup": ""
+        },
+        {
+            "id": 232,
+            "breed": "Greenland Dog",
+            "origin": "Greenland",
+            "akcGroup": ""
+        },
+        {
+            "id": 233,
+            "breed": "Greyhound",
+            "origin": "United Kingdom, Middle East",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 234,
+            "breed": "Griffon Bleu de Gascogne",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 235,
+            "breed": "Griffon Bruxellois",
+            "origin": "Belgium",
+            "akcGroup": "Toy Group"
+        },
+        {
+            "id": 236,
+            "breed": "Griffon Fauve de Bretagne",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 237,
+            "breed": "Griffon Nivernais",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 238,
+            "breed": "Guatemalan Dogo",
+            "origin": "Guatemala",
+            "akcGroup": ""
+        },
+        {
+            "id": 239,
+            "breed": "Hamiltonstövare",
+            "origin": "Sweden",
+            "akcGroup": ""
+        },
+        {
+            "id": 240,
+            "breed": "Hanover Hound",
+            "origin": "Germany",
+            "akcGroup": ""
+        },
+        {
+            "id": 241,
+            "breed": "Hare Indian Dog",
+            "origin": "Canada, United States",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 242,
+            "breed": "Harrier",
+            "origin": "United Kingdom",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 243,
+            "breed": "Havanese",
+            "origin": "Cuba",
+            "akcGroup": "Toy Group"
+        },
+        {
+            "id": 244,
+            "breed": "Hawaiian Poi Dog",
+            "origin": "United States",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 245,
+            "breed": "Himalayan Sheepdog",
+            "origin": "Nepal",
+            "akcGroup": ""
+        },
+        {
+            "id": 246,
+            "breed": "Hokkaido Ken",
+            "origin": "Japan",
+            "akcGroup": ""
+        },
+        {
+            "id": 247,
+            "breed": "Hortaya Borzaya",
+            "origin": "Ukraine, Russia, Belarus",
+            "akcGroup": ""
+        },
+        {
+            "id": 248,
+            "breed": "Hovawart",
+            "origin": "Germany",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 249,
+            "breed": "Huntaway",
+            "origin": "New Zealand",
+            "akcGroup": ""
+        },
+        {
+            "id": 250,
+            "breed": "Hygenhund",
+            "origin": "Norway",
+            "akcGroup": ""
+        },
+        {
+            "id": 251,
+            "breed": "Ibizan Hound",
+            "origin": "Spain",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 252,
+            "breed": "Icelandic Sheepdog",
+            "origin": "Iceland",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 253,
+            "breed": "Indian pariah dog",
+            "origin": "India",
+            "akcGroup": ""
+        },
+        {
+            "id": 254,
+            "breed": "Indian Spitz",
+            "origin": "India",
+            "akcGroup": ""
+        },
+        {
+            "id": 255,
+            "breed": "Irish Red and White Setter",
+            "origin": "Ireland",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 256,
+            "breed": "Irish Setter",
+            "origin": "Ireland",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 257,
+            "breed": "Irish Terrier",
+            "origin": "Ireland",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 258,
+            "breed": "Irish Water Spaniel",
+            "origin": "Ireland",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 259,
+            "breed": "Irish Wolfhound",
+            "origin": "Ireland",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 260,
+            "breed": "Istrian Coarse-haired Hound",
+            "origin": "Croatia",
+            "akcGroup": ""
+        },
+        {
+            "id": 261,
+            "breed": "Istrian Shorthaired Hound",
+            "origin": "Croatia",
+            "akcGroup": ""
+        },
+        {
+            "id": 262,
+            "breed": "Italian Greyhound",
+            "origin": "Italy",
+            "akcGroup": "Toy Group"
+        },
+        {
+            "id": 263,
+            "breed": "Jack Russell Terrier",
+            "origin": "United Kingdom, England",
+            "akcGroup": ""
+        },
+        {
+            "id": 264,
+            "breed": "Jagdterrier",
+            "origin": "Germany",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 265,
+            "breed": "Jämthund",
+            "origin": "Sweden",
+            "akcGroup": ""
+        },
+        {
+            "id": 266,
+            "breed": "Japanese Chin",
+            "origin": "Japan",
+            "akcGroup": "Toy Group"
+        },
+        {
+            "id": 267,
+            "breed": "Japanese Spitz",
+            "origin": "Japan",
+            "akcGroup": ""
+        },
+        {
+            "id": 268,
+            "breed": "Japanese Terrier",
+            "origin": "Japan",
+            "akcGroup": ""
+        },
+        {
+            "id": 269,
+            "breed": "Kaikadi",
+            "origin": "India",
+            "akcGroup": ""
+        },
+        {
+            "id": 270,
+            "breed": "Kai Ken",
+            "origin": "Japan",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 271,
+            "breed": "Kangal Dog",
+            "origin": "Turkey",
+            "akcGroup": ""
+        },
+        {
+            "id": 272,
+            "breed": "Kanni",
+            "origin": "India",
+            "akcGroup": ""
+        },
+        {
+            "id": 273,
+            "breed": "Karakachan Dog",
+            "origin": "Bulgaria",
+            "akcGroup": ""
+        },
+        {
+            "id": 274,
+            "breed": "Karelian Bear Dog",
+            "origin": "Finland",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 275,
+            "breed": "Karst Shepherd",
+            "origin": "Slovenia",
+            "akcGroup": ""
+        },
+        {
+            "id": 276,
+            "breed": "Keeshond",
+            "origin": "Netherlands, Germany",
+            "akcGroup": "Non-Sporting Group"
+        },
+        {
+            "id": 277,
+            "breed": "Kerry Beagle",
+            "origin": "Ireland",
+            "akcGroup": ""
+        },
+        {
+            "id": 278,
+            "breed": "Kerry Blue Terrier",
+            "origin": "Ireland",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 279,
+            "breed": "King Charles Spaniel",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Toy Group"
+        },
+        {
+            "id": 280,
+            "breed": "King Shepherd",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 281,
+            "breed": "Kintamani",
+            "origin": "Indonesia",
+            "akcGroup": ""
+        },
+        {
+            "id": 282,
+            "breed": "Kishu Ken",
+            "origin": "Japan",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 283,
+            "breed": "Komondor",
+            "origin": "Hungary",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 284,
+            "breed": "Kooikerhondje",
+            "origin": "Netherlands",
+            "akcGroup": "FSS (Miscellaneous)"
+        },
+        {
+            "id": 285,
+            "breed": "Koolie",
+            "origin": "Australia",
+            "akcGroup": ""
+        },
+        {
+            "id": 286,
+            "breed": "Korean Jindo Dog",
+            "origin": "South Korea",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 287,
+            "breed": "Kromfohrländer",
+            "origin": "Germany",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 288,
+            "breed": "Kumaon Mastiff",
+            "origin": "India",
+            "akcGroup": ""
+        },
+        {
+            "id": 289,
+            "breed": "Kunming Wolfdog",
+            "origin": "China",
+            "akcGroup": ""
+        },
+        {
+            "id": 290,
+            "breed": "Kurī",
+            "origin": "New Zealand",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 291,
+            "breed": "Kuvasz",
+            "origin": "Hungary",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 292,
+            "breed": "Kyi-Leo",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 293,
+            "breed": "Labrador Husky",
+            "origin": "Canada",
+            "akcGroup": ""
+        },
+        {
+            "id": 294,
+            "breed": "Labrador Retriever",
+            "origin": "Canada, United Kingdom, England",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 295,
+            "breed": "Lagotto Romagnolo",
+            "origin": "Italy",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 296,
+            "breed": "Lakeland Terrier",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 297,
+            "breed": "Lancashire Heeler",
+            "origin": "United Kingdom, England",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 298,
+            "breed": "Landseer",
+            "origin": "Canada",
+            "akcGroup": ""
+        },
+        {
+            "id": 299,
+            "breed": "Lapponian Herder",
+            "origin": "Finland",
+            "akcGroup": ""
+        },
+        {
+            "id": 300,
+            "breed": "Leonberger",
+            "origin": "Germany",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 301,
+            "breed": "Lhasa Apso",
+            "origin": "Tibet",
+            "akcGroup": "Non-Sporting Group"
+        },
+        {
+            "id": 302,
+            "breed": "Lithuanian Hound",
+            "origin": "Lithuania",
+            "akcGroup": ""
+        },
+        {
+            "id": 303,
+            "breed": "Longhaired Whippet",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 304,
+            "breed": "Löwchen",
+            "origin": "Germany, France, Netherlands, Spain",
+            "akcGroup": "Non-Sporting Group"
+        },
+        {
+            "id": 305,
+            "breed": "Mackenzie River Husky",
+            "origin": "Canada, Alaska",
+            "akcGroup": ""
+        },
+        {
+            "id": 306,
+            "breed": "Magyar Agár",
+            "origin": "Hungary, Transylvania",
+            "akcGroup": ""
+        },
+        {
+            "id": 307,
+            "breed": "Mahratta Greyhound",
+            "origin": "India",
+            "akcGroup": ""
+        },
+        {
+            "id": 308,
+            "breed": "Majorca Ratter",
+            "origin": "Spain",
+            "akcGroup": ""
+        },
+        {
+            "id": 309,
+            "breed": "Majorca Shepherd Dog",
+            "origin": "Spain",
+            "akcGroup": ""
+        },
+        {
+            "id": 310,
+            "breed": "Maltese",
+            "origin": "Italy",
+            "akcGroup": "Toy Group"
+        },
+        {
+            "id": 311,
+            "breed": "Manchester Terrier",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Terrier Group, Toy Group"
+        },
+        {
+            "id": 312,
+            "breed": "Maremma Sheepdog",
+            "origin": "Italy",
+            "akcGroup": ""
+        },
+        {
+            "id": 313,
+            "breed": "McNab",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 314,
+            "breed": "Mexican Hairless Dog",
+            "origin": "Mexico",
+            "akcGroup": "Non-Sporting Group"
+        },
+        {
+            "id": 315,
+            "breed": "Miniature Australian Shepherd",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 316,
+            "breed": "Miniature American Shepherd",
+            "origin": "United States",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 317,
+            "breed": "Miniature Fox Terrier",
+            "origin": "Australia",
+            "akcGroup": ""
+        },
+        {
+            "id": 318,
+            "breed": "Miniature Pinscher",
+            "origin": "Germany",
+            "akcGroup": "Toy Group"
+        },
+        {
+            "id": 319,
+            "breed": "Miniature Schnauzer",
+            "origin": "Germany",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 320,
+            "breed": "Miniature Shar Pei",
+            "origin": "China",
+            "akcGroup": ""
+        },
+        {
+            "id": 321,
+            "breed": "Mioritic",
+            "origin": "Romania",
+            "akcGroup": ""
+        },
+        {
+            "id": 322,
+            "breed": "Molossus",
+            "origin": "Greece",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 323,
+            "breed": "Molossus of Epirus",
+            "origin": "Greece",
+            "akcGroup": "Not recognised"
+        },
+        {
+            "id": 324,
+            "breed": "Montenegrin Mountain Hound",
+            "origin": "Montenegro",
+            "akcGroup": ""
+        },
+        {
+            "id": 325,
+            "breed": "Moscow Watchdog",
+            "origin": "Russia",
+            "akcGroup": ""
+        },
+        {
+            "id": 326,
+            "breed": "Moscow Water Dog",
+            "origin": "Russia",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 327,
+            "breed": "Mountain Cur",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 328,
+            "breed": "Mucuchies",
+            "origin": "Venezuela",
+            "akcGroup": ""
+        },
+        {
+            "id": 329,
+            "breed": "Mudhol Hound",
+            "origin": "India",
+            "akcGroup": ""
+        },
+        {
+            "id": 330,
+            "breed": "Mudi",
+            "origin": "Hungary",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 331,
+            "breed": "Münsterländer, Large",
+            "origin": "Germany",
+            "akcGroup": ""
+        },
+        {
+            "id": 332,
+            "breed": "Münsterländer, Small",
+            "origin": "Germany",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 333,
+            "breed": "Murcian Ratter",
+            "origin": "Spain",
+            "akcGroup": ""
+        },
+        {
+            "id": 334,
+            "breed": "Neapolitan Mastiff",
+            "origin": "Italy",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 335,
+            "breed": "Newfoundland",
+            "origin": "Canada",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 336,
+            "breed": "New Zealand Heading Dog",
+            "origin": "New Zealand",
+            "akcGroup": ""
+        },
+        {
+            "id": 337,
+            "breed": "Norfolk Spaniel",
+            "origin": "United Kingdom",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 338,
+            "breed": "Norfolk Terrier",
+            "origin": "United Kingdom",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 339,
+            "breed": "Norrbottenspets",
+            "origin": "Sweden",
+            "akcGroup": "FSS (Miscellaneous)"
+        },
+        {
+            "id": 340,
+            "breed": "North Country Beagle",
+            "origin": "United Kingdom",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 341,
+            "breed": "Northern Inuit Dog",
+            "origin": "United Kingdom, England",
+            "akcGroup": ""
+        },
+        {
+            "id": 342,
+            "breed": "Norwegian Buhund",
+            "origin": "Norway",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 343,
+            "breed": "Norwegian Elkhound",
+            "origin": "Norway",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 344,
+            "breed": "Norwegian Lundehund",
+            "origin": "Norway",
+            "akcGroup": "Non-Sporting Group"
+        },
+        {
+            "id": 345,
+            "breed": "Norwich Terrier",
+            "origin": "United Kingdom",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 346,
+            "breed": "Nova Scotia Duck-Tolling Retriever",
+            "origin": "Canada",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 347,
+            "breed": "Old Croatian Sighthound",
+            "origin": "Croatia",
+            "akcGroup": ""
+        },
+        {
+            "id": 348,
+            "breed": "Old Danish Pointer",
+            "origin": "Denmark",
+            "akcGroup": ""
+        },
+        {
+            "id": 349,
+            "breed": "Old English Sheepdog",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 350,
+            "breed": "Old English Terrier",
+            "origin": "United Kingdom, England",
+            "akcGroup": ""
+        },
+        {
+            "id": 351,
+            "breed": "Old German Shepherd Dog",
+            "origin": "Germany",
+            "akcGroup": ""
+        },
+        {
+            "id": 352,
+            "breed": "Old Time Farm Shepherd",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 353,
+            "breed": "Olde English Bulldogge",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 354,
+            "breed": "Otterhound",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 355,
+            "breed": "Pachon Navarro",
+            "origin": "Spain",
+            "akcGroup": ""
+        },
+        {
+            "id": 356,
+            "breed": "Pandikona Hunting Dog",
+            "origin": "India",
+            "akcGroup": ""
+        },
+        {
+            "id": 357,
+            "breed": "Paisley Terrier",
+            "origin": "United Kingdom, Scotland",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 358,
+            "breed": "Papillon",
+            "origin": "Spain, Belgium, France",
+            "akcGroup": "Toy Group"
+        },
+        {
+            "id": 359,
+            "breed": "Parson Russell Terrier",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 360,
+            "breed": "Patterdale Terrier",
+            "origin": "United Kingdom, England",
+            "akcGroup": ""
+        },
+        {
+            "id": 361,
+            "breed": "Pekingese",
+            "origin": "China",
+            "akcGroup": "Toy Group"
+        },
+        {
+            "id": 362,
+            "breed": "Perro de Presa Canario",
+            "origin": "Spain",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 363,
+            "breed": "Perro de Presa Mallorquin",
+            "origin": "Spain",
+            "akcGroup": ""
+        },
+        {
+            "id": 364,
+            "breed": "Perro fino Colombiano",
+            "origin": "Colombia",
+            "akcGroup": ""
+        },
+        {
+            "id": 365,
+            "breed": "Peruvian Hairless Dog",
+            "origin": "Peru",
+            "akcGroup": "FSS (Miscellaneous)"
+        },
+        {
+            "id": 366,
+            "breed": "Phalène",
+            "origin": "Belgium, Spain",
+            "akcGroup": ""
+        },
+        {
+            "id": 367,
+            "breed": "Pharaoh Hound",
+            "origin": "Malta",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 368,
+            "breed": "Phu Quoc ridgeback dog",
+            "origin": "Vietnam",
+            "akcGroup": ""
+        },
+        {
+            "id": 369,
+            "breed": "Picardy Spaniel",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 370,
+            "breed": "Plott Hound",
+            "origin": "United States",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 371,
+            "breed": "Podenco Canario",
+            "origin": "Spain",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 372,
+            "breed": "Pointer",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 373,
+            "breed": "Poitevin",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 374,
+            "breed": "Polish Greyhound",
+            "origin": "Poland",
+            "akcGroup": ""
+        },
+        {
+            "id": 375,
+            "breed": "Polish Hound",
+            "origin": "Poland",
+            "akcGroup": ""
+        },
+        {
+            "id": 376,
+            "breed": "Polish Hunting Dog",
+            "origin": "Poland",
+            "akcGroup": ""
+        },
+        {
+            "id": 377,
+            "breed": "Polish Lowland Sheepdog",
+            "origin": "Poland",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 378,
+            "breed": "Polish Tatra Sheepdog",
+            "origin": "Poland",
+            "akcGroup": ""
+        },
+        {
+            "id": 379,
+            "breed": "Pomeranian",
+            "origin": "Germany, Poland",
+            "akcGroup": "Toy Group"
+        },
+        {
+            "id": 380,
+            "breed": "Pont-Audemer Spaniel",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 381,
+            "breed": "Poodle",
+            "origin": "Germany, France",
+            "akcGroup": "Non-Sporting Group, Toy Group"
+        },
+        {
+            "id": 382,
+            "breed": "Porcelaine",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 383,
+            "breed": "Portuguese Podengo",
+            "origin": "Portugal",
+            "akcGroup": "Hound, FSS (Miscellaneous)"
+        },
+        {
+            "id": 384,
+            "breed": "Portuguese Pointer",
+            "origin": "Portugal",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 385,
+            "breed": "Portuguese Water Dog",
+            "origin": "Portugal",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 386,
+            "breed": "Posavac Hound",
+            "origin": "Croatia",
+            "akcGroup": ""
+        },
+        {
+            "id": 387,
+            "breed": "Pražský Krysařík",
+            "origin": "Czech Republic",
+            "akcGroup": ""
+        },
+        {
+            "id": 388,
+            "breed": "Pudelpointer",
+            "origin": "Germany",
+            "akcGroup": ""
+        },
+        {
+            "id": 389,
+            "breed": "Pug",
+            "origin": "China",
+            "akcGroup": "Toy Group"
+        },
+        {
+            "id": 390,
+            "breed": "Puli",
+            "origin": "Hungary",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 391,
+            "breed": "Pumi",
+            "origin": "Hungary",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 392,
+            "breed": "Pungsan Dog",
+            "origin": "North Korea",
+            "akcGroup": ""
+        },
+        {
+            "id": 393,
+            "breed": "Pyrenean Mastiff",
+            "origin": "Spain",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 394,
+            "breed": "Pyrenean Shepherd",
+            "origin": "France",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 395,
+            "breed": "Rafeiro do Alentejo",
+            "origin": "Portugal",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 396,
+            "breed": "Rajapalayam",
+            "origin": "India",
+            "akcGroup": ""
+        },
+        {
+            "id": 397,
+            "breed": "Rampur Greyhound",
+            "origin": "India",
+            "akcGroup": ""
+        },
+        {
+            "id": 398,
+            "breed": "Rastreador Brasileiro",
+            "origin": "Brazil",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 399,
+            "breed": "Ratonero Bodeguero Andaluz",
+            "origin": "Spain",
+            "akcGroup": ""
+        },
+        {
+            "id": 400,
+            "breed": "Ratonero Valenciano",
+            "origin": "Spain",
+            "akcGroup": ""
+        },
+        {
+            "id": 401,
+            "breed": "Rat Terrier",
+            "origin": "United States",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 402,
+            "breed": "Redbone Coonhound",
+            "origin": "United States",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 403,
+            "breed": "Rhodesian Ridgeback",
+            "origin": "Zimbabwe",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 404,
+            "breed": "Rottweiler",
+            "origin": "Germany",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 405,
+            "breed": "Russian Spaniel",
+            "origin": "Russia",
+            "akcGroup": ""
+        },
+        {
+            "id": 406,
+            "breed": "Russian Toy",
+            "origin": "Russia",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 407,
+            "breed": "Russian tracker",
+            "origin": "Russia",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 408,
+            "breed": "Russo-European Laika",
+            "origin": "Russia",
+            "akcGroup": ""
+        },
+        {
+            "id": 409,
+            "breed": "Russell Terrier",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 410,
+            "breed": "Saarlooswolfhond",
+            "origin": "Netherlands, Germany",
+            "akcGroup": ""
+        },
+        {
+            "id": 411,
+            "breed": "Sabueso Español",
+            "origin": "Spain",
+            "akcGroup": ""
+        },
+        {
+            "id": 412,
+            "breed": "Saint-Usuge Spaniel",
+            "origin": "France",
+            "akcGroup": ""
+        },
+        {
+            "id": 413,
+            "breed": "Sakhalin Husky",
+            "origin": "Japan",
+            "akcGroup": ""
+        },
+        {
+            "id": 414,
+            "breed": "Saluki",
+            "origin": "Fertile Crescent",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 415,
+            "breed": "Samoyed",
+            "origin": "Russia",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 416,
+            "breed": "Santal Hound",
+            "origin": "India",
+            "akcGroup": ""
+        },
+        {
+            "id": 417,
+            "breed": "Sapsali",
+            "origin": "Korea",
+            "akcGroup": ""
+        },
+        {
+            "id": 418,
+            "breed": "Šarplaninac",
+            "origin": "Serbia, Republic of Macedonia",
+            "akcGroup": ""
+        },
+        {
+            "id": 419,
+            "breed": "Schapendoes",
+            "origin": "Netherlands",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 420,
+            "breed": "Schillerstövare",
+            "origin": "Sweden",
+            "akcGroup": ""
+        },
+        {
+            "id": 421,
+            "breed": "Schipperke",
+            "origin": "Belgium",
+            "akcGroup": "Non-Sporting Group"
+        },
+        {
+            "id": 422,
+            "breed": "Standard Schnauzer",
+            "origin": "Germany",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 423,
+            "breed": "Schweizer Laufhund",
+            "origin": "Switzerland",
+            "akcGroup": ""
+        },
+        {
+            "id": 424,
+            "breed": "Schweizerischer Niederlaufhund",
+            "origin": "Switzerland",
+            "akcGroup": ""
+        },
+        {
+            "id": 425,
+            "breed": "Scotch Collie",
+            "origin": "United Kingdom, Scotland",
+            "akcGroup": ""
+        },
+        {
+            "id": 426,
+            "breed": "Scottish Deerhound",
+            "origin": "United Kingdom, Scotland",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 427,
+            "breed": "Scottish Terrier",
+            "origin": "United Kingdom, Scotland",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 428,
+            "breed": "Sealyham Terrier",
+            "origin": "United Kingdom, Wales",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 429,
+            "breed": "Segugio Italiano",
+            "origin": "Italy",
+            "akcGroup": ""
+        },
+        {
+            "id": 430,
+            "breed": "Seppala Siberian Sleddog",
+            "origin": "Canada",
+            "akcGroup": ""
+        },
+        {
+            "id": 431,
+            "breed": "Serbian Hound",
+            "origin": "Serbia",
+            "akcGroup": ""
+        },
+        {
+            "id": 432,
+            "breed": "Serbian Tricolour Hound",
+            "origin": "Serbia",
+            "akcGroup": ""
+        },
+        {
+            "id": 433,
+            "breed": "Seskar Seal Dog",
+            "origin": "Finland",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 434,
+            "breed": "Shar Pei",
+            "origin": "China",
+            "akcGroup": "Non-Sporting Group"
+        },
+        {
+            "id": 435,
+            "breed": "Shetland Sheepdog",
+            "origin": "United Kingdom, Scotland",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 436,
+            "breed": "Shiba Inu",
+            "origin": "Japan",
+            "akcGroup": "Non-Sporting Group"
+        },
+        {
+            "id": 437,
+            "breed": "Shih Tzu",
+            "origin": "China",
+            "akcGroup": "Toy Group"
+        },
+        {
+            "id": 438,
+            "breed": "Shikoku Ken",
+            "origin": "Japan",
+            "akcGroup": ""
+        },
+        {
+            "id": 439,
+            "breed": "Shiloh Shepherd Dog",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 440,
+            "breed": "Siberian Husky",
+            "origin": "Russia",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 441,
+            "breed": "Silken Windhound",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 442,
+            "breed": "Sinhala Hound",
+            "origin": "Sri Lanka",
+            "akcGroup": ""
+        },
+        {
+            "id": 443,
+            "breed": "Skye Terrier",
+            "origin": "United Kingdom, Scotland",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 444,
+            "breed": "Sloughi",
+            "origin": "Morocco",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 445,
+            "breed": "Slovak Cuvac",
+            "origin": "Slovakia",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 446,
+            "breed": "Slovakian Rough-haired Pointer",
+            "origin": "Slovakia",
+            "akcGroup": ""
+        },
+        {
+            "id": 447,
+            "breed": "Slovenský Kopov",
+            "origin": "Slovakia",
+            "akcGroup": ""
+        },
+        {
+            "id": 448,
+            "breed": "Smålandsstövare",
+            "origin": "Sweden",
+            "akcGroup": ""
+        },
+        {
+            "id": 449,
+            "breed": "Small Greek Domestic Dog",
+            "origin": "Greece",
+            "akcGroup": ""
+        },
+        {
+            "id": 450,
+            "breed": "Soft-Coated Wheaten Terrier",
+            "origin": "Ireland",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 451,
+            "breed": "South Russian Ovcharka",
+            "origin": "Russia",
+            "akcGroup": ""
+        },
+        {
+            "id": 452,
+            "breed": "Southern Hound",
+            "origin": "United Kingdom",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 453,
+            "breed": "Spanish Mastiff",
+            "origin": "Spain",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 454,
+            "breed": "Spanish Water Dog",
+            "origin": "Spain",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 455,
+            "breed": "Spinone Italiano",
+            "origin": "Italy",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 456,
+            "breed": "Sporting Lucas Terrier",
+            "origin": "United Kingdom, England",
+            "akcGroup": ""
+        },
+        {
+            "id": 457,
+            "breed": "St. Bernard",
+            "origin": "Italy, Switzerland",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 458,
+            "breed": "St. John's water dog",
+            "origin": "Dominion of Newfoundland, Canada",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 459,
+            "breed": "Stabyhoun",
+            "origin": "Netherlands",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 460,
+            "breed": "Staffordshire Bull Terrier",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 461,
+            "breed": "Stephens Cur",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 462,
+            "breed": "Styrian Coarse-haired Hound",
+            "origin": "Austria",
+            "akcGroup": ""
+        },
+        {
+            "id": 463,
+            "breed": "Sussex Spaniel",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 464,
+            "breed": "Swedish Lapphund",
+            "origin": "Sweden",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 465,
+            "breed": "Swedish Vallhund",
+            "origin": "Sweden",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 466,
+            "breed": "Tahltan Bear Dog",
+            "origin": "Canada",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 467,
+            "breed": "Taigan",
+            "origin": "Kyrgyzstan",
+            "akcGroup": ""
+        },
+        {
+            "id": 468,
+            "breed": "Taiwan Dog",
+            "origin": "Taiwan",
+            "akcGroup": ""
+        },
+        {
+            "id": 469,
+            "breed": "Talbot",
+            "origin": "United Kingdom, Belgium, France",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 470,
+            "breed": "Tamaskan Dog",
+            "origin": "Finland",
+            "akcGroup": ""
+        },
+        {
+            "id": 471,
+            "breed": "Teddy Roosevelt Terrier",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 472,
+            "breed": "Telomian",
+            "origin": "Malaysia",
+            "akcGroup": ""
+        },
+        {
+            "id": 473,
+            "breed": "Tennessee Treeing Brindle",
+            "origin": "United States",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 474,
+            "breed": "Tenterfield Terrier",
+            "origin": "Australia",
+            "akcGroup": ""
+        },
+        {
+            "id": 475,
+            "breed": "Terceira Mastiff",
+            "origin": "Portugal",
+            "akcGroup": ""
+        },
+        {
+            "id": 476,
+            "breed": "Thai Bangkaew Dog",
+            "origin": "Thailand",
+            "akcGroup": ""
+        },
+        {
+            "id": 477,
+            "breed": "Thai Ridgeback",
+            "origin": "Thailand",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 478,
+            "breed": "Tibetan Mastiff",
+            "origin": "Tibet",
+            "akcGroup": "Working Group"
+        },
+        {
+            "id": 479,
+            "breed": "Tibetan Spaniel",
+            "origin": "Tibet",
+            "akcGroup": "Non-Sporting Group"
+        },
+        {
+            "id": 480,
+            "breed": "Tibetan Terrier",
+            "origin": "Tibet",
+            "akcGroup": "Non-Sporting Group"
+        },
+        {
+            "id": 481,
+            "breed": "Tornjak",
+            "origin": "Bosnia and Herzegovina, Croatia",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 482,
+            "breed": "Tosa",
+            "origin": "Japan",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 483,
+            "breed": "Toy Bulldog",
+            "origin": "",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 484,
+            "breed": "Toy Fox Terrier",
+            "origin": "United States",
+            "akcGroup": "Toy Group"
+        },
+        {
+            "id": 485,
+            "breed": "Toy Manchester Terrier",
+            "origin": "United Kingdom, England, United States",
+            "akcGroup": "Toy Group"
+        },
+        {
+            "id": 486,
+            "breed": "Toy Trawler Spaniel",
+            "origin": "United Kingdom",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 487,
+            "breed": "Transylvanian Hound",
+            "origin": "Hungary",
+            "akcGroup": "FSS"
+        },
+        {
+            "id": 488,
+            "breed": "Treeing Cur",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 489,
+            "breed": "Treeing Walker Coonhound",
+            "origin": "United States",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 490,
+            "breed": "Trigg Hound",
+            "origin": "Kentucky, United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 491,
+            "breed": "Tweed Water Spaniel",
+            "origin": "United Kingdom",
+            "akcGroup": "Extinct"
+        },
+        {
+            "id": 492,
+            "breed": "Tyrolean Hound",
+            "origin": "Austria",
+            "akcGroup": ""
+        },
+        {
+            "id": 493,
+            "breed": "Uruguayan Cimarron",
+            "origin": "Uruguay",
+            "akcGroup": ""
+        },
+        {
+            "id": 494,
+            "breed": "Vanjari Hound",
+            "origin": "India",
+            "akcGroup": ""
+        },
+        {
+            "id": 495,
+            "breed": "Villano de las Encartaciones",
+            "origin": "Spain",
+            "akcGroup": ""
+        },
+        {
+            "id": 496,
+            "breed": "Vizsla",
+            "origin": "Hungary",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 497,
+            "breed": "Volpino Italiano",
+            "origin": "Italy",
+            "akcGroup": ""
+        },
+        {
+            "id": 498,
+            "breed": "Weimaraner",
+            "origin": "Germany",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 499,
+            "breed": "Welsh Corgi, Cardigan",
+            "origin": "United Kingdom, Wales",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 500,
+            "breed": "Welsh Corgi, Pembroke",
+            "origin": "United Kingdom, Wales",
+            "akcGroup": "Herding Group"
+        },
+        {
+            "id": 501,
+            "breed": "Welsh Sheepdog",
+            "origin": "United Kingdom, Wales",
+            "akcGroup": ""
+        },
+        {
+            "id": 502,
+            "breed": "Welsh Springer Spaniel",
+            "origin": "United Kingdom, Wales",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 503,
+            "breed": "Welsh Terrier",
+            "origin": "United Kingdom, Wales",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 504,
+            "breed": "West Highland White Terrier",
+            "origin": "United Kingdom, Scotland",
+            "akcGroup": "Terrier Group"
+        },
+        {
+            "id": 505,
+            "breed": "West Siberian Laika",
+            "origin": "Russia",
+            "akcGroup": ""
+        },
+        {
+            "id": 506,
+            "breed": "Westphalian Dachsbracke",
+            "origin": "Germany",
+            "akcGroup": ""
+        },
+        {
+            "id": 507,
+            "breed": "Wetterhoun",
+            "origin": "Netherlands",
+            "akcGroup": ""
+        },
+        {
+            "id": 508,
+            "breed": "Whippet",
+            "origin": "England",
+            "akcGroup": "Hound Group"
+        },
+        {
+            "id": 509,
+            "breed": "White Shepherd",
+            "origin": "United States",
+            "akcGroup": ""
+        },
+        {
+            "id": 510,
+            "breed": "Wirehaired Pointing Griffon",
+            "origin": "Netherlands, France",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 511,
+            "breed": "Wirehaired Vizsla",
+            "origin": "Hungary",
+            "akcGroup": "Sporting Group"
+        },
+        {
+            "id": 512,
+            "breed": "Xiasi Dog",
+            "origin": "China",
+            "akcGroup": ""
+        },
+        {
+            "id": 513,
+            "breed": "Yorkshire Terrier",
+            "origin": "United Kingdom, England",
+            "akcGroup": "Toy Group"
+        }
+    ]
+}
